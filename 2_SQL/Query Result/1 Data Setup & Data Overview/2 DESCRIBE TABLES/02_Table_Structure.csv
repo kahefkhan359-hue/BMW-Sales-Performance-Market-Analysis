@@ -1,0 +1,12 @@
+Field,Type,Null,Key,Default,Extra
+Model,text,YES,,NULL,
+Year,int,YES,,NULL,
+Region,text,YES,,NULL,
+Color,text,YES,,NULL,
+Fuel_Type,text,YES,,NULL,
+Transmission,text,YES,,NULL,
+Engine_Size_L,double,YES,,NULL,
+Mileage_KM,int,YES,,NULL,
+Price_USD,int,YES,,NULL,
+Sales_Volume,int,YES,,NULL,
+Sales_Classification,text,YES,,NULL,
